@@ -1,4 +1,8 @@
+# The project is outdated
 
+For the latest WebAssembly Component Model support in Kotlin, check out https://github.com/Kotlin/sample-wasi-http-kotlin/.
+
+---
 Experiments with compiling Kotlin to Wasm Component, 
 linking it with an example component written in Rust, transpiling it to JS + Core Wasm using [jco](https://github.com/bytecodealliance/jco), 
 and running the result in Node.js.
